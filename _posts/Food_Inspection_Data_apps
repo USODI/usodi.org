@@ -14,7 +14,7 @@ The issue is that it's not always easy for consumer to find this information out
 
 ## HDScores
 
-HDscores is an upcoming app for the iPhone that will let users get information on health inspections at nearby resturants. The most impressive thing about the HDscores app is that the app gathers bulk health inspection data from across the country. Currently, the HDscores app pulls data from 530,000 establishments and has access to over three million inspection reports.
+HDscores is an upcoming app for the iOS and Android systems that will let users get information on health inspections at nearby resturants. The most impressive thing about the HDscores app is that the app gathers bulk health inspection data from across the country. Currently, the HDscores app pulls data from 530,000 establishments and has access to over three million inspection reports.
 
 The app uses a series of robots to find the data an import it into the HDscores app data base. To do this, the developers use a variety of methods including xpath, xmath, and regular expressions to build a custom program based on the jurisdiction. This allows the team to get data regardless of the system being used. They currently import data from older CSV and Flash systems, to new ones using the new LIVES standard. 
 
@@ -24,11 +24,15 @@ Eventually, the team would also like to cater to both governments and buisnesses
 
 For example, if a health inspector finds roaches at a restuarant and places it in the report. HDscores would then send a message to pest control clients letting them know, allowing the pest control buisness to make a potential sale. 
 
-HDscores will launch mid-August. To find out more information you can visit their website at [http://hdscores.com/](http://hdscores.com/). 
+The HDscores iOS will launch ad free in mid-August with the Android app launching this fall. To find out more information you can visit their website at [http://hdscores.com/](http://hdscores.com/). 
 
+## Openhealthinspection.com
 
+[OpenHealthInspection.com](http://openhealthinspection.com/#/) is a web app that shows health inspection data around the Hampton Roads, Virgina area. The app was built by the [Code for America Hampton Roads Brigade](http://codeforhamptonroads.org/).
 
-## OpenHealthInspections.org 
+When you open the app, it brings you to a searchable map of all nearby resturants. The app also gives you a list of nearby establishments to the right of the screen. When you click a restuarant, it gives you detailed information about the last few inspections. The app also uses helpful icons to distinguish between critial violations, repeat violations, or violations that were corrected during the inspection. 
 
-ALl about OpenHealthInspections.org 
+The site is also designed responsivly and can use the GPS on the user's mobile device to find establishments near the user.  
+The app is open source and can be found on the [Code for Hampton Roads Github page](https://github.com/c4hrva/open-health-inspection-app). 
+
 
