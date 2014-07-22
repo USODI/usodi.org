@@ -14,7 +14,19 @@ The issue is that it's not always easy for consumer to find this information out
 
 ## HDScores
 
-All about HDScores
+HDscores is an upcoming app for the iPhone that will let users get information on health inspections at nearby resturants. The most impressive thing about the HDscores app is that the app gathers bulk health inspection data from across the country. Currently, the HDscores app pulls data from 530,000 establishments and has access to over three million inspection reports.
+
+The app uses a series of robots to find the data an import it into the HDscores app data base. To do this, the developers use a variety of methods including xpath, xmath, and regular expressions to build a custom program based on the jurisdiction. This allows the team to get data regardless of the system being used. They currently import data from older CSV and Flash systems, to new ones using the new LIVES standard. 
+
+The app will first focus on the consumer market. Currently in private alpha, the app helps users find resturant inspection data using their phones. When you open the app, it will give you the option to either search for an establishment name or check out establishments near you. Clicking on a location will give you information about the resturant's inspection history. Clicking on the each inspection will give you detailed information including violations, the notes from the inspector, and if any of the violations were critical. The app also allows you to save your favorite resturants for easier access. 
+
+Eventually, the team would also like to cater to both governments and buisnesses. Because they have access to data from multiple cities, the team feels they could provide valuable predictive analytics tools to local health departments. Additionally, because they're gathing information from health departments as soon as their updating they can also provide buisness referall services. 
+
+For example, if a health inspector finds roaches at a restuarant and places it in the report. HDscores would then send a message to pest control clients letting them know, allowing the pest control buisness to make a potential sale. 
+
+HDscores will launch mid-August. To find out more information you can visit their website at [http://hdscores.com/](http://hdscores.com/). 
+
+
 
 ## OpenHealthInspections.org 
 
