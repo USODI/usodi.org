@@ -1,3 +1,5 @@
 markdown: kramdown
 name: U.S. Open Data Institute
 url: http://usodi.org
+
+exclude: [".gitignore", "README.md", "_drafts"]
