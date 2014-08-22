@@ -1,6 +1,7 @@
-markdown: kramdown
-name: U.S. Open Data Institute
-url: http://usodi.org
+markdown:   kramdown
+name:      U.S. Open Data Institute
+url:       http://usodi.org
+permalink: pretty
 
 exclude: [".gitignore", "README.md", "_drafts"]
 
