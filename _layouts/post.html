@@ -3,6 +3,7 @@
 <body class="wrap">
 
   {% include header.html %}
+  {% assign author = site.authors[page.author] %}
 
   <article class="single-post">
 
@@ -10,7 +11,7 @@
 
     <div class="post-meta">
       <span>{{ page.date | date_to_long_string }}</span>
-      <a href="https://github.com/{{ page.author }}" class="post-author">{{ page.author }}</a>
+      <a href="https://github.com/{{ author.github }}" class="post-author">{{ author.name }}</a>
     </div>
     <br \>
 
