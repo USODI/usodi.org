@@ -3,7 +3,7 @@
 	<h2><a href="{{ post.url }}" title="Permalink">{{ post.title }}</a></h2>
 
 	<div class="post-meta">
-		<span>{{ post.date | date_to_string }}</span>
+		<span>{{ post.date | date_to_long_string }}</span>
 		<a href="https://github.com/{{ post.author }}" class="post-author">{{ post.author }}</a>
 	</div>
   <br>
