@@ -1,36 +1,39 @@
 The Connecticut Data Collaborative is a collaborative public-private effort to improve the quality of and access to policy-related data in the state. 
 
 https://farm4.staticflickr.com/3597/3332840235_293c8e1f59_z.jpg
-
 Map of the state of Connecticut showing Indian trails, villages and sachemdoms; Photo by University of Connecticut
 
-<!--more-->
 
 The Connecticut Data Collaborative is a project of the New Connecticut Foundation, a 501(c)3 nonprofit organization affiliated with the Connecticut Economic Resource Center. The Collaborative, established in 2009, has received major funding for its work from the Connecticut Health and Educational Facilities Authority and the State of Connecticut. Seed funding has been provided by the Connecticut Early Childhood Education Cabinet, the William Caspar Graustein Memorial Fund United Way of Coastal Fairfield County, and the Grossman Family Foundation. Funding for the CTData.org customized data portals has also been received from the Connecticut Department of Mental Health and Addiction Services, the Connecticut Office of Rural Health, the William Caspar Graustein Memorial Fund, the United Way of Coastal Fairfield County, the Bridgeport Department of Health, and the Connecticut Health Foundation. 
 
-The Connecticut Data Collaborative started in 2009  out of a grassroots coalition of people working in early childhood education and policy.  The group had become frustrated by the lack of open data to make informed policy decisions.  - The group received initial startup funding from William Grousteen Memorial Fund and joined the <a href="http://www.openindicators.org/portal" target="_blank">Open Indicators Consortium</a>. From there, they were able to get a fund from the <span style="color: #333333;">Connecticut</span> Health and Education Finance authority and expanded their data offerings to all policy areas.
+The Connecticut Data Collaborative started in 2009  out of a grassroots coalition of people working in early childhood education and policy.  The group had become frustrated by the lack of open data to make informed policy decisions.  - The group received initial startup funding from William Grousteen Memorial Fund and joined the Open Indicators Consortium. From there, they were able to get a fund from the Connecticut Health and Education Finance authority and expanded their data offerings to all policy areas.
 
-This spring, they hired <a href="www.linkedin.com/pub/michelle-riordan-nold/23/4aa/574" target="_blank">Michelle Riordan-Hold</a> as the collaborative's  first executive director who had been involved with the collaborative since 2012. Riordan-Hold previously <span style="color: #333333;">Connecticut Economic Resource Center. </span>
+This spring, they hired Michelle Riordan-Hold as the collaborative's  first executive director who had been involved with the collaborative since 2012. Riordan-Hold previously Connecticut Economic Resource Center. 
+
 <h3>Starting Out</h3>
-Initially, the group was attempting to put together a set of visualizations to present to the Connecticut Legislature. (It should be noted that Connecticut has no county governments and so the state handles more services than most states.) They launched the <a href="http://ctdata.org/" target="_blank"><span style="color: #333333;">Connecticut Data Collaborative </span>site</a> during testimony in front of <span style="color: #333333;">Connecticut's appropriations committee. The legislature had never seen data like this that had been visualized by town. </span>
+
+Initially, the group was attempting to put together a set of visualizations to present to the Connecticut Legislature. (It should be noted that Connecticut has no county governments and so the state handles more services than most states.) They launched the Connecticut Data Collaborative </span>site</a> during testimony in front of  Connecticut's appropriations committee. The legislature had never seen data like this that had been visualized by town. 
 
 Riordan-Hold  says that the visualizations were much more powerful than numbers. The legislators immediately looked at their home town - seeing how they ranked. (For this presentation, the data was about 3rd Grade reading scores compared to wealth of the town.)  This first project took about a year year and a half,  - because it was at the time the organization wasn't using any full time staff.
 
 <a title="Connecticut State Capitol by Jim Bowen, on Flickr" href="https://www.flickr.com/photos/jamiedfw/2179760494"><img src="https://farm3.staticflickr.com/2345/2179760494_3d15f94de1_z.jpg" alt="Connecticut State Capitol" width="640" height="428" /></a>
 
 The Legislature saw value in the program and gave the group two years of funding.  Additionally, the collaborative receives funding through a number of non-profits.
+
 <h3>Getting the Collaborative Rolling</h3>
 The Connecticut Data Collaborative still struggles with getting data out of cash strapped agencies. Some of the founders of the collaborative were involved in particular policy areas and had relationships with state agencies and worked with the agencies to help free up their data.
 
-One initiative, called the <a href="http://www.sde.ct.gov/sde/cwp/view.asp?a=2711&amp;Q=322618" target="_blank">Results Based Accountabilities, </a>is a state program where the collaborative has a consultant  that helps towns and organizations address policy issues using data.
-<h3>Current Projects</h3>
-Currently, the Connecticut Data Collaborative is redesigning their website. The current website uses a program called <a href="https://www.oicweave.org/" target="_blank">Weave</a> to display data as part of the Open Indicators Project.
+One initiative, called the Results Based Accountabilities, is a state program where the collaborative has a consultant  that helps towns and organizations address policy issues using data.
 
-Riordan-Hold points out that the <a href="https://www.oicweave.org/" target="_blank">Weave</a> system was designed for developers and it requires Java. The system isn't the most user friendly and with 80% of the collaborative's users not being data analysts, the collaborative needs a website that's easy to use. (<a href="https://github.com/IVPR/Weave" target="_blank">But it is open source</a>)  The collaborative hopes to launch the new site in mid-September.
+<h3>Current Projects</h3>
+
+Currently, the Connecticut Data Collaborative is redesigning their website. The current website uses a program called Weave to display data as part of the Open Indicators Project.
+
+Riordan-Hold points out that the Weave system was designed for developers and it requires Java. The system isn't the most user friendly and with 80% of the collaborative's users not being data analysts, the collaborative needs a website that's easy to use. (But it is open source)  The collaborative hopes to launch the new site in mid-September.
 
 Since I started, I said we need to move off of weave and offer other visualization tools.
 
-Another project that the Collaborative is working on involves a partnership with the <a href="http://web.ccsu.edu/imrp/" target="_blank">Central Connecticut State University.</a>  CCSU received a grant to receive all traffic stop data as part of the <a href="http://www.ctrp3.org/" target="_blank">Racial Profiling Prohibition Project</a> and will analyze the data to determine if racial profiling is going on. The data collaborative will host the data on their portal.
+Another project that the Collaborative is working on involves a partnership with the Central Connecticut State University. CCSU received a grant to receive all traffic stop data as part of the Racial Profiling Prohibition Project and will analyze the data to determine if racial profiling is going on. The data collaborative will host the data on their portal.
 
 <iframe src="//player.vimeo.com/video/79840157" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -42,4 +45,3 @@ One of the unique things about the collaborative is that the collaborative plays
 
 You can find out more about the Connecticut Data Collaborative on their website at http://ctdata.org/
 
-&nbsp;
