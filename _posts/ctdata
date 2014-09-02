@@ -1,49 +1,50 @@
 #The Connecticut Data Collaborative 
 
-The [Connecticut Data Collaborative](http://www.ctdata.org) is a public-private effort to improve the quality of and access to policy-related data in the state. 
+The [Connecticut Data Collaborative](http://www.ctdata.org) is a public-private effort created to advance effective planning and decision-making in Connecticut at the state, regional and local levels through the use of open and accessible data. 
 
 ![Map of the state of Connecticut showing Indian trails, villages and sachemdoms; Photo by University of Connecticut](https://farm4.staticflickr.com/3597/3332840235_293c8e1f59_z.jpg "Map of the state of Connecticut showing Indian trails, villages and sachemdoms; Photo by University of Connecticut")
 
 
-The Connecticut Data Collaborative is a project of the [New Connecticut Foundation](http://www.cerc.com/Content/New_CT_Foundation.asp), a 501(c)3 nonprofit organization affiliated with the Connecticut Economic Resource Center. The Collaborative, established in 2009, has received major funding for its work from the Connecticut Health and Educational Facilities Authority and the State of Connecticut. Seed funding has been provided by the Connecticut Early Childhood Education Cabinet, the William Caspar Graustein Memorial Fund United Way of Coastal Fairfield County, and the Grossman Family Foundation. Funding for the CTData.org customized data portals has also been received from the Connecticut Department of Mental Health and Addiction Services, the Connecticut Office of Rural Health, the William Caspar Graustein Memorial Fund, the United Way of Coastal Fairfield County, the Bridgeport Department of Health, and the Connecticut Health Foundation. 
+The Connecticut Data Collaborative is a project of the [New Connecticut Foundation](http://www.cerc.com/Content/New_CT_Foundation.asp), a 501(c)3 nonprofit organization affiliated with the Connecticut Economic Resource Center. The Collaborative, established in 2009, has received major funding for its work from the Connecticut Health and Educational Facilities Authority and the State of Connecticut. Seed funding and funding for portals has been provided by the Connecticut Early Childhood Education Cabinet, the William Caspar Graustein Memorial Fund, United Way of Coastal Fairfield County, the Grossman Family Foundation, the Connecticut Department of Mental Health and Addiction Services, the Connecticut Office of Rural Health, the Bridgeport Department of Health, the Connecticut Health Foundation, and the Jeniam Foundation. 
 
-The Connecticut Data Collaborative started in 2009  out of a grassroots coalition of people working in early childhood education and policy.  The group had become frustrated by the lack of open data to make informed policy decisions.  - The group received initial startup funding from William Grousteen Memorial Fund and joined the Open Indicators Consortium. From there, they were able to get a fund from the Connecticut Health and Education Finance authority and expanded their data offerings to all policy areas.
+The Connecticut Data Collaborative started in 2009  out of a grassroots coalition of people working in early childhood education and policy.  The group sought to improve the availability of open data to make informed policy decisions. The group received initial startup funding from William C.Graustein Memorial Fund and joined the Open Indicators Consortium. From there, they were able to get funding from the Connecticut Health and Education Finance authority to expand their data offerings to all policy areas, build [ctdata.org](http://www.ctdata.org), and work in collaboration with the Urban Institute’s National Center for Charitable Statistics to build a community platform, the Connecticut Nonprofit Strategy Platform.
 
-This spring, they hired Michelle Riordan-Nold as the collaborative's  first executive director who had been involved with the collaborative since 2012. Riordan-Nold previously Connecticut Economic Resource Center. 
+This spring, they hired Michelle Riordan-Nold as the collaborative's  first executive director who had been involved with the collaborative since 2012. Riordan-Nold previously worked at the Connecticut Economic Resource Center. 
 
 ###Starting Out
 
-Initially, the group was attempting to put together a set of visualizations to present to the Connecticut Legislature. (It should be noted that Connecticut has no county governments and so the state handles more services than most states.) They launched the Connecticut Data Collaborative </span>site</a> during testimony in front of  Connecticut's appropriations committee. The legislature had never seen data like this that had been visualized by town. 
+The Colalborative launched [ctdata.org site](http://www.ctdata.org) during a special meetingin front of Connecticut's appropriations committee. The legislature had never seen data in an interactive and visual format before with the ability to look at a map or scatterplot and compare all the towns. (It should be noted that Connecticut has no county governments and so the state handles more services than most states.)  
 
-Riordan-Nold  says that the visualizations were much more powerful than numbers. The legislators immediately looked at their home town - seeing how they ranked. (For this presentation, the data was about 3rd Grade reading scores compared to wealth of the town.)  This first project took about a year year and a half,  - because it was at the time the organization wasn't using any full time staff.
+Riordan-Nold  says that the visualizations were much more powerful than the numbers. The legislators immediately looked at their home town - seeing how they ranked. (For this presentation, the data was about 3rd Grade reading scores and municipal funding compared to wealth of the town.)  Getting the website launched and data curated and loaded  took about a year and a half,  - because at the time the organization wasn't using any full time staff.
 
 ![Connecticut State Capitol](https://farm3.staticflickr.com/2345/2179760494_3d15f94de1_z.jpg "Connecticut State Capitol, Photo by Jim Bowen")
 
-The Legislature saw value in the program and gave the group two years of funding.  Additionally, the collaborative receives funding through a number of non-profits.
+The Legislature saw value in the program and gave the group two years of funding.  Additionally, the collaborative currently receives smaller amounts of funding from local foundations, state agencies, and for special projects.
 
 ### Getting the Collaborative Rolling
 
-The Connecticut Data Collaborative still struggles with getting data out of cash strapped agencies. Some of the founders of the collaborative were involved in particular policy areas and had relationships with state agencies and worked with the agencies to help free up their data.
+The Connecticut Data Collaborative still struggles with getting data out of cash strapped agencies. Some of the founders of the collaborative were involved in particular policy areas and had relationships with state agencies and worked with the agencies to help free up their data.
 
-One initiative, called the Results Based Accountabilities, is a state program where the collaborative has a consultant  that helps towns and organizations address policy issues using data.
+
+However, in the spring, the Governor launched an [open data portal](https://data.ct.gov/) and this has enabled the Collaborative to put greater attention on enhancing the visualization tools and telling the data stories as opposed to working solely on access to data.  
 
 ### Current Projects
 
-Currently, the Connecticut Data Collaborative is redesigning their website. The current website uses a program called Weave to display data as part of the Open Indicators Project.
+Currently, the Connecticut Data Collaborative is redesigning their website. The current website uses a visualization software tool called Weave to display data.
 
-Riordan-Nold points out that the Weave system was designed for developers and it requires Java. The system isn't the most user friendly and with 80% of the collaborative's users not being data analysts, the collaborative needs a website that's easy to use. (But it is open source)  The collaborative hopes to launch the new site in mid-September.
+Riordan-Nold points out that although the Weave tool provides sophisticated visualizations, it requires Java and can be too complex for the everyday user. With 80% of the collaborative's users not being data analysts, the collaborative needs tools that are easy to use. ([But it is open source](https://github.com/IVPR/Weave))  The collaborative hopes to launch the new site in  September.
 
-Since I started, I said we need to move off of weave and offer other visualization tools.
+Since Riordan-Hold started, she has said they need to provide a user friendly interface and  offer other visualization tools.
 
-Another project that the Collaborative is working on involves a partnership with the Central Connecticut State University. CCSU received a grant to receive all traffic stop data as part of the Racial Profiling Prohibition Project and will analyze the data to determine if racial profiling is going on. The data collaborative will host the data on their portal.
+Another project that the Collaborative is working on involves a partnership with the Institute for Municipal and Regional Policy at Central Connecticut State University. IMRP received a grant to collect all traffic stop data as part of the Racial Profiling Prohibition Project and will analyze the data to determine if racial profiling is going on. The data collaborative will make the data available on their portal.
 
 <iframe src="//player.vimeo.com/video/79840157" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-The police departments in Connecticut will need to be able to have a print-out of their data in a one-to-two pager that has everything analyzed for them. This analysis will be provided by the Connecticut Data Collaborative.
+To help people interpret the data, the Collaborative will provide interactive visualizations in addition to providing the raw data. Further, the police departments in Connecticut need to be able to have a print-out of their data in a one-to-two pager that has everything analyzed for them. This analysis will be provided by the Connecticut Data Collaborative.
 
-One of the unique things about the collaborative is that the collaborative plays host to both government and non-profit data. The collaborative seeks to be the enterprise solutions for organizations, state agencies, trying to make their data open.
+One of the unique things about the collaborative is that the collaborative plays host to both government and non-profit data. The collaborative seeks to be the enterprise solutions for organizations, state agencies, trying to make their data open.
 
-“When you think about open data, people sometimes forget about the policy aspect of it. People think about (using data when) starting a business or transparency - but I would say a lot of our data is more for public policy research. We're a little different in that sense.”,  says Riordan-Nold
+“When you think about open data, people sometimes forget about the policy aspect of it. People think about (using data when) starting a business or government transparency - but I would say a lot of our data is more for public policy research. We're a little different in that sense.”,  says Riordan-Nold
 
 You can find out more about the Connecticut Data Collaborative on their website at <http://ctdata.org/>
 
