@@ -1,10 +1,14 @@
-## An Experiment in Government Innovation—Legal Hackers in Residence
+---
+layout: post
+title: 'An Experiment in Government Innovation: Legal Hackers in Residence'
+author: vzvenyach
+---
 
-Cross Posted from <http://dccouncil.us/pages/an-experiment-in-government-innovationlegal-hackers-in-residence>
+_The following is a guest post written by V. David Zvenyach, General Counsel for the Washington D.C. Council, and is [cross-posted from their website](http://dccouncil.us/pages/an-experiment-in-government-innovationlegal-hackers-in-residence). We’re excited about Zvenyach’s new program, as it promises to be an important new method of facilitating open data within government. –Waldo Jaquith, US ODI Director_
 
-In the last two years, my office has been working with civic hackers—[Code for DC](codefordc.org), [DC Legal Hackers](dclegalhackers.org), and others—and organizations like [US ODI](usodi.org) and the [OpenGov Foundation](opengovfoundation.org) to build open-source tools to make DC's law more accessible. Increasingly, we are working to expand our efforts and join with partner cities through the [Free Law Founders](freelawfounders.org). I've even learned to code in Python, Node, and am learning Ruby.
+In the last two years, my office has been working with civic hackers—[Code for DC](codefordc.org), [DC Legal Hackers](dclegalhackers.org), and others—and organizations like [US ODI](usodi.org) and the [OpenGov Foundation](opengovfoundation.org) to build open-source tools to make DC's law more accessible. Increasingly, we are working to expand our efforts and join with partner cities through the [Free Law Founders](freelawfounders.org). I've even learned to code in Python, Node, and I am learning Ruby.
 
-In the last year, though, I had a realization: it is time to bring the hackers in-house. It is time for government lawyers to embrace innovation and to retool our practice for the digital age. We need to stop using bad toolsâ€”or worse paying overpriced vendors for proprietary software that works some of the timeâ€”and instead work with developers. In turn, instead of building one-off applications and fighting with legal teams, developers can be a partner in making change.
+In the last year, though, I had a realization: it is time to bring the hackers in-house. It is time for government lawyers to embrace innovation and to retool our practice for the digital age. We need to stop using bad tools—or worse paying overpriced vendors for proprietary software that works some of the time—and instead work with developers. In turn, instead of building one-off applications and fighting with legal teams, developers can be a partner in making change.
 
 And so, today, after months of working to refine the concept, I am delighted to announce the establishment of the [Free Law Innovation Fellow](https://screendoor.dobt.co/opengov-foundation/free-law-coding-fellowship-on-the-d-c-council).
 
