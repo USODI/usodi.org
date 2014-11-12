@@ -6,7 +6,7 @@ author: waldoj
 
 About a year ago, I was approached by a state agency that needed advice about how to open a dataset. This agency is charged with assembling voter information collected by localities throughout the state, and they were interested in opening up an anonymized version of that dataset. I talked with a couple of their developers about potential applications of that data, how to normalize it, and other technical matters. Then one of the developers interjected.
 
-_What happens,_ he asked, _when a legislator discovers that some of our data is inaccurate?_ He explained that his agency’s job was just to collect and disseminate the data—they had no way of knowing whether localities were collecting it correctly. Inevitably, some of it was wrong. _If I put together a system to publish precinct-level voter registration data, and we say that there are more voters in a precinct than there really are, couldn’t I wind up getting hauled in front of a committee as Exihibit A in a voter fraud hearing?_
+_What happens,_ he asked, _when a legislator discovers that some of our data is inaccurate?_ He explained that his agency’s job was just to collect and disseminate the data—they had no way of knowing whether localities were collecting it correctly. Inevitably, some of it was wrong. _If I put together a system to publish precinct-level voter registration data, and we say that there are more voters in a precinct than there really are, couldn’t I wind up getting hauled in front of a committee as Exhibit A in a voter fraud hearing?_
 
 Yes, of course, that was absolutely possible, I agreed, after some stammering.
 
