@@ -26,7 +26,7 @@ He was right—there was no reason why he should open this data. That was the en
 
 That conversation has stuck with me. I relate it to somebody every week or two. It illustrates perfectly a significant conundrum of open data: _there is no incentive model that makes it rational for government employees to publish open data._ The safe thing to do is to publish bland, unobjectionable, low-value data.
 
-One solution to this is probably the hardest possible solution: _culture change._ So long as there are legislators who are willing to seek out small mistakes to pounce on to score political points, and so long as agencies don’t support agile development and its iterative approach (clear up to the head of the agency), then it will be irrational for government employees to publishz datasets that could be used to make them look bad.
+One solution to this is probably the hardest possible solution: _culture change._ So long as there are legislators who are willing to seek out small mistakes to pounce on to score political points, and so long as agencies don’t support agile development and its iterative approach (clear up to the head of the agency), then it will be irrational for government employees to publish datasets that could be used to make them look bad.
 
 There needs to be somebody at the top of the organizational chart who will put in writing a committment to agile, iterative development, who will go to the mat in defense of that process, and who can make a strong case for the need to get data in the open, even if it has mistakes (maybe _especially_ if it has mistakes), so that those mistakes can be aired, identified, and corrected.
 
