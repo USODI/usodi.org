@@ -14,7 +14,7 @@ _So best case,_ he said, _we publish this data and nobody gets angry about the m
 
 I had to concede the point.
 
-_And worse case,_ he said, _I get fired after being publicly humiliated in front of a legislative committee._
+_And worst case,_ he said, _I get fired after being publicly humiliated in front of a legislative committee._
 
 Again, I had to concede the point.
 
