@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training || U.S. Open Data Institute
+title: Training
 ---
 
 # ODI Open Data Training
