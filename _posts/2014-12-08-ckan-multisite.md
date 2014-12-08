@@ -10,7 +10,7 @@ We’d like feedback about this throughout the week, before we break up these ta
 
 Naturally, [we have a GitHub repository for this project](https://github.com/opendata/CKAN-Multisite/), and feedback is best provided there. (Or, if you prefer privacy, they can be sent [to me via e-mail](mailto:waldo@usodi.org).)
 
-->• • •<-
+<center>• • •</center>
 
 Here’s the motivation behind this project.
 
