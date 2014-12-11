@@ -6,7 +6,7 @@ author: waldoj
 
 At the U.S. Open Data Institute, we recently used government data to audit a small city’s business licenses, and we found that 30% of the city’s businesses were operating without a license. The city is losing out on somewhere between hundreds of thousands and millions of dollars of business license revenue—as much as 2% of the city’s annual budget. It’s a compelling case for the significant economic value of open data to government. This is the story of how it happened.
 
-## Opening Virginia’s Data
+### Opening Virginia’s Data
 
 The state of Virginia does not provide open data about corporations. They have [a website](https://sccefile.scc.virginia.gov/Find/Business) where people can search, one business at a time, and read some of the data that the State Corporation Commission stores about it. The only way to get a list of all 786,308 registered corporations is to [pay the SCC $450 for a three-month data subscription](http://www.scc.virginia.gov/clk/purch.aspx) and [sign a five-page contract](http://www.scc.virginia.gov/clk/files/sale.doc).
 
@@ -24,7 +24,7 @@ This experimental, unadvertised site hadn’t been up for long when I got an e-m
 
 Providing her with that data took a couple of months. That’s because the addresses in the data were wildly inconsistent, sometimes wrong, and of course not geocoded. Paying to geocode all of the records would have cost thousands of dollars, so I had to figure out how to get access to the state’s geocoder. The state’s geodata department was extremely helpful, and soon I had [a script geocoding all of the addresses](http://www.vita.virginia.gov/isp/default.aspx?id=8404). I was able to send several thousand records to that municipal employee, as a spreadsheet. It remains to be seen what they’ll do with those records, if anything.
 
-## Using Virginia’s Data in Charlottesville
+### Using Virginia’s Data in Charlottesville
 
 Remembering that I’m acquainted with the commissioner of the revenue—the tax collector—in my home of Charlottesville, I generated the same spreadsheet for him. But his office is limited by the proprietary software that they use, and the only way for them to figure out which businesses were registered with the state and unlicensed with the city was by having a person look up each of them, one at a time, an impractical task. So they sent me spreadsheet of all 4,253 licensed businesses in Charlottesville (data that should be open, but that is not). Their records don’t use corporate identifiers, and their street addresses aren’t normalized, so I used [the Census geocoder](http://geocoding.geo.census.gov/geocoder/) to standardize the addresses and wrote some code to match up state records with city records.
 
@@ -36,7 +36,7 @@ However, there are are some names on the list that I know should be licensed, bu
 
 The average Charlottesville business pays $1,588 in annual license fees. If all 1,900 businesses were supposed to be licensed, that would be an extra $3 million in annual income for the city, or about 2% of the city’s annual budget. If only 20% of those 1,900 are wrongly unlicensed, that’s an additional $600 thousand in annual revenue. If that estimate is right, and Charlottesville is a representative sample, then Virginia localities are collectively missing out on over $100 million each year. But these are wild estimates—again, a proper audit is required to have any real data to work with.
 
-## Conclusions
+### Conclusions
 
 The value of corporate registration data to localities makes it a poster child for the value of open data within government and between governments.
 
